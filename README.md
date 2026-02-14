@@ -1,4 +1,4 @@
-# SportVsPoliticsTextClassification
+# Sport vs Politics Text Classification
 
 ## Project Overview
 
