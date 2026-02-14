@@ -47,8 +47,8 @@ reduce noise in the data.
 
 ## Machine Learning Models Used
 
-1.  Multinomial Naive Bayes\
-2.  Logistic Regression\
+1.  Multinomial Naive Bayes
+2.  Logistic Regression
 3.  Support Vector Machine (Linear SVM)
 
 Each model was trained using an 80-20 train-test split.
